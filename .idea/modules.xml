@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/devtask_new.iml" filepath="$PROJECT_DIR$/.idea/devtask_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KcbTask-Sopia/kcb_mpesa_walet_disbursement/kcb_mpesa_walet_disbursement.iml" filepath="$PROJECT_DIR$/KcbTask-Sopia/kcb_mpesa_walet_disbursement/kcb_mpesa_walet_disbursement.iml" />
+    </modules>
+  </component>
+</project>
